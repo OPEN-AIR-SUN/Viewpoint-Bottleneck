@@ -2,8 +2,6 @@
 
 [**Paper**]()
 
-<!--> Paste the link of paper here <-->
-
 Created by Liyi Luo, Beiwen Tian, Hao Zhao and Guyue Zhou from [Institute for AI Industry Research (AIR), Tsinghua University, China](http://air.tsinghua.edu.cn/EN/).
 
 ---
@@ -33,8 +31,6 @@ In this repository, we propose a self-supervised 3D representation learning fram
 ## Citation
 
 If you find our work useful in your research, please consider citing:
-
-<!--> Paste the citation of paper here <-->
 
 ```
 @misc{
