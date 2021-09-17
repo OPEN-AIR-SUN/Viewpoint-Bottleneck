@@ -1,0 +1,34 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*.o
+*.so
+
+# Text edits
+*.swp
+*.swo
+*.orig
+
+# Training
+outputs/
+
+# Profiling
+callgrind.out*
+*.dSYM
+
+# Misc
+.DS_Store
+
+# ==== Viewpoint Bottleneck ====
+
+log/
+logs/
+
+# Checkpoints
+*.pth
+
+.vscode/
+
+# Dataset path
+pretrained/
+data/
