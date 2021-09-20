@@ -33,9 +33,14 @@ In this repository, we propose a self-supervised 3D representation learning fram
 If you find our work useful in your research, please consider citing:
 
 ```
-@misc{
-
-} 
+@misc{luo2021pointlysupervised,
+      title={Pointly-supervised 3D Scene Parsing with Viewpoint Bottleneck}, 
+      author={Liyi Luo and Beiwen Tian and Hao Zhao and Guyue Zhou},
+      year={2021},
+      eprint={2109.08553},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
 
 ## Preparation
