@@ -1,6 +1,6 @@
 # Pointly-supervised 3D Scene Parsing with Viewpoint Bottleneck
 
-[**Paper**]()
+[**Paper**](https://arxiv.org/abs/2109.08553)
 
 Created by Liyi Luo, Beiwen Tian, Hao Zhao and Guyue Zhou from [Institute for AI Industry Research (AIR), Tsinghua University, China](http://air.tsinghua.edu.cn/EN/).
 
